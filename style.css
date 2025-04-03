@@ -1,17 +1,17 @@
 #board{
   border-radius: 10px;
-  width: 25wh;
-  height: 25vh;
+  width: 600px;
+  height: 600px;
   border: solid black 2px;
   margin: auto;
   background-color: aliceblue;
 }
 .column {
-  margin-top: 13px;
-  margin-left: 13px;
+  margin-top: 25px;
+  margin-left: 35px;
   background-color: lightgrey;
-  width: 20wh;
-  height: 20vh;
+  width: 150px;
+  height: 150px;
   font-size: 100px;
   color: black;
   cursor: pointer;
